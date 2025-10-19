@@ -34,4 +34,4 @@ else:
 
 
 ## Result
-Thus,To write a Python program that checks whether a given number is a **palindrome** using loops.
+Thus,to write a Python program that checks whether a given number is a **palindrome** using loops is executed successfully.
